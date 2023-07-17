@@ -89,5 +89,3 @@ Explore the versatility of the "math_utils.inc" library by creating the followin
 19. **Gravity-based Puzzle Game**: Solve puzzles by manipulating objects with realistic gravity physics.
 20. **Planetary Orbit Simulation**: Simulate orbits of planets and celestial bodies in a 2D space environment.
 
-
-Please note that the example project ideas provided are brief descriptions. You can expand upon each idea in the README file to give more details and context for each project suggestion. Additionally, you can add more project ideas to inspire developers to use the "math_utils.inc" library in various creative ways.
